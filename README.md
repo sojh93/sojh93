@@ -3,7 +3,7 @@
 </div>
 <div align=center>
   <h4>Front-End-Developer</h4>
-  <h4>Contact: sojh37@gmail.com | Blog: https://sojh93.tistory.com</h4>
+  <h4>Contact: sojh73@naver.com | Blog: https://sojh93.tistory.com</h4>
 </div>
 </br>
 <div width="100px" align=center>
