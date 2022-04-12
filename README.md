@@ -1,4 +1,4 @@
-<div align=center>
+<div align=center margin=0>
   <h1>👋JeongHyeonSo👋</h1> 
 </div>
 <div align=center>
