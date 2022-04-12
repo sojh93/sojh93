@@ -1,16 +1,17 @@
 <div align=center>
-<h1>👋JeongHyeonSo👋</h1> 
+  <h1>👋JeongHyeonSo👋</h1> 
 </div>
 <div align=center>
-<h4>Front-End-Developer</h4>
+  <h4>Front-End-Developer</h4>
   <h4>Contact: sojh37@gmail.com | Blog: https://sojh93.tistory.com</h4>
-
 </div>
 
-<h1> TechStack </h1>
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-
+<div width=100px>
+  <h1>TechStack</h1>
+</div>
+<div align=left>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</div>
 
 
 
