@@ -1,4 +1,18 @@
-### Hi there 👋
+<div align=center>
+<h1>👋JeongHyeonSo👋</h1> 
+</div>
+<div align=center>
+<h4>Front-End-Developer</h4>
+  <h4>Contact: sojh37@gmail.com | Blog: https://sojh93.tistory.com</h4>
+
+</div>
+
+<h1> TechStack </h1>
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+
+
+
 
 <!--
 **sojh93/sojh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
