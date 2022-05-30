@@ -9,7 +9,7 @@
 <div width="100px" align=center>
   <div>
   <h1>⚒TechStack⚒</h1>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=black"/> <img alt="Vue" src ="https://img.shields.io/badge/Vue-green.svg?&style=for-the-badge&logo=Vue&logoColor=green"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=black"/> <img alt="Vue" src ="https://img.shields.io/badge/vue-green?&style=for-the-badge&logo=vue&logoColor=green"/>
   </div>
 
 </div>
